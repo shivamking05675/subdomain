@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-# Turbolist3r
-# By Carl Pearson - github.com/fleetcaptain
-# Based on Sublist3r code created by Ahmed Aboul-Ela - twitter.com/aboul3la
-#
+
 
 
 # modules in standard library
